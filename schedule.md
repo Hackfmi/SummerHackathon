@@ -27,7 +27,15 @@ _Презентатори:_
 
 _Тема:_
 
-__JavaScript Frontend MVC - библиотеки и практики.__
+__JavaScript Frontend MVC - практики и въведение в AngularJS.__
+
+_Програма_
+* Single-Page Applications
+* Архитектура
+* Модули и организация
+* Жизнен цикъл на прилжението
+* Въведение в AngularJS
+* Deployment
 
 _Презентатори:_
 
