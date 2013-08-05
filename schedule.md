@@ -1,4 +1,4 @@
-# Програма за Летният Хакатон.
+# Програма за Летния Хакатон.
 
 ## Лекции:
 
@@ -21,7 +21,7 @@ __Python & Django - Създаване на уеб приложения__
 _Презентатори:_
 
 * Кирил Владимиров
-* Александър Тодоров
+* [Александър Тодоров](http://atodorov.org/)
 
 ### 14ти август, сряда
 
@@ -31,7 +31,7 @@ __JavaScript Frontend MVC - библиотеки и практики.__
 
 _Презентатори:_
 
-* Минко Гечев
+* [Минко Гечев](http://blog.mgechev.com/)
 
 
 ### 15ти август, четвъртък
@@ -42,5 +42,5 @@ __Team Management и Project Management - Какво става, когато н
 
 _Презентатори:_
 
-* Мирослав Мирославов
-* Мирослав Недялков
+* [Мирослав Мирославов](https://twitter.com/mmiroslavov) - [Sofia Valley](http://sofiavalley.com), Developer and Team Leader at Telerik
+* Мирослав Недялков - Developer and Team Leader at Telerik
