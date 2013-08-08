@@ -33,9 +33,12 @@ _Програма_
 * Single-Page Applications
 * Архитектура
 * Модули и организация
-* Жизнен цикъл на прилжението
 * Въведение в AngularJS
-* Deployment
+ * Partials
+ * Controllers
+ * Directives
+ * Services
+ * Демо
 
 _Презентатори:_
 
