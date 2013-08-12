@@ -27,18 +27,17 @@ _Презентатори:_
 
 _Тема:_
 
-__JavaScript Frontend MVC - практики и въведение в AngularJS.__
+__Добри практики в JavaScript, UI frameworks, deployment__
 
 _Програма_
-* Single-Page Applications
-* Архитектура
-* Модули и организация
-* Въведение в AngularJS
- * Partials
- * Controllers
- * Directives
- * Services
- * Демо
+* Защо за ни нужни добрите практики?
+* Наследяване
+* IIFE
+* Namespace pattern
+* Module pattern
+* Publish/subscribe
+* UI frameworks
+* Deployment с Gruntjs
 
 _Презентатори:_
 
